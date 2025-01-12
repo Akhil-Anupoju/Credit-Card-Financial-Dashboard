@@ -30,11 +30,8 @@ The **Credit Card Financial Dashboard** is a comprehensive Power BI project desi
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thank you to the contributors and the Power BI community for their resources and support.
 
 ## Contact
-For inquiries, please reach out to [your-email@example.com].
+For inquiries, please reach out to [anupojuakhil@gmail.com].
